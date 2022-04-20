@@ -1,0 +1,6 @@
+# Folders
+build
+_out
+
+# Files
+log-*.txt
